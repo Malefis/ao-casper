@@ -1,5 +1,5 @@
 backend:
-  name: Malefis
+  name: github
   repo: Malefis/ao-caspar # Path to your Github repository
   branch: master # Branch to update (master by default)
 
